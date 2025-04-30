@@ -59,7 +59,7 @@ I’m currently looking for a **2-month internship** starting in **May 2025**, w
 
 ## 📫 Contact Me
 📧 **Email:** [mariami.chaduneli2024@campus-eni.fr](mailto:mariami.chaduneli2024@campus-eni.fr)  
-🌐 **Portfolio (Coming Soon!)**  
+🌐 **Portfolio:** [https://marichadu.github.io/my-web/](https://marichadu.github.io/my-web/)  
 📍 **Location:** Nantes, France  
 
 Let's connect and build something amazing! 🚀
